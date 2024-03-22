@@ -1,0 +1,22 @@
+{"flight": {"identification": {"id": "347465ac",
+   "number": {"default": "KL1696"},
+  "status": {"live": "True",
+   "text": "Estimated 19:08",
+    "eventTime": {"utc": 1711044480, "local": 1711048080}}}},
+  "owner": {"name": "KLM",
+   "code": {"iata": "KL", "icao": "KLM"},
+   "logo": "https://images.flightradar24.com/assets/airlines/logotypes/8.png"},
+  "airport": {"origin": {
+    "info": {"terminal": "1", "baggage": null, "gate": "19"},
+    "name": "Lisbon Humberto Delgado Airport",
+    "position": {"latitude": 38.781311,
+     "longitude": -9.13591,
+     "country": {"name": "Portugal"},
+     "region": {"city": "Lisbon"}}},
+   "destination": {
+    "info": {"terminal": null, "baggage": "011", "gate": "D81"}}},
+  "time": {"scheduled": {"departure": 1711034700, "arrival": 1711046100},
+   "real": {"departure": 1711035595, "arrival": null},
+   "estimated": {"departure": null, "arrival": 1711044480}}}
+
+  
